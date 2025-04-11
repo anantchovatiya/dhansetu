@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "450248829883",
+    "project_id": "dhansetu-c0ab1",
+    "storage_bucket": "dhansetu-c0ab1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:450248829883:android:ef9ed736eefd37a100329e",
+        "android_client_info": {
+          "package_name": "com.dhansetu.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqDG4SM-haN3qOfEJ4VNWZl59ITLEh6Xc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,4 +1,4 @@
-# Expense Tracker App
+# DhanSetu App
 
 A comprehensive Flutter app for tracking expenses with analytics and visualizations.
 
@@ -64,7 +64,7 @@ A comprehensive Flutter app for tracking expenses with analytics and visualizati
 
 ## Screenshots
 
-(Add screenshots here)
+
 
 ## Future Enhancements
 
@@ -75,6 +75,3 @@ A comprehensive Flutter app for tracking expenses with analytics and visualizati
 - Cloud synchronization
 - Multiple currency support
 
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
