@@ -63,10 +63,12 @@ A comprehensive Flutter app for tracking expenses with analytics and visualizati
 - **lib/db/**: Database operations and helpers
 
 ## Screenshots
-![alt text](IMG-20250411-WA0002.jpg)
-![alt text](IMG-20250411-WA0004.jpg)
-![alt text](IMG-20250411-WA0003.jpg)
-![alt text](IMG-20250411-WA0001.jpg)
+<p float="left">
+  <img src="IMG-20250411-WA0002.jpg" alt="Screenshot 1" width="200" />
+  <img src="IMG-20250411-WA0004.jpg" alt="Screenshot 2" width="200" />
+  <img src="IMG-20250411-WA0003.jpg" alt="Screenshot 3" width="200" />
+  <img src="IMG-20250411-WA0001.jpg" alt="Screenshot 4" width="200" />
+</p>
 
 
 ## Future Enhancements
