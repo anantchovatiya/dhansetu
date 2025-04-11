@@ -79,3 +79,7 @@ A comprehensive Flutter app for tracking expenses with analytics and visualizati
 - Data export to CSV/PDF
 - Cloud synchronization
 - Multiple currency support
+
+## 👨‍💻 Developed By
+
+**Anant Chovatiya**
